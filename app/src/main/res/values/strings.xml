@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">الاجبية</string>
+
+    <string name="baker">باكر</string>
+    <string name="talta">الثالثة</string>
+    <string name="sadsa">السادسة</string>
+    <string name="tas3a">التاسعة</string>
+    <string name="khrob">الغروب</string>
+    <string name="nom">النوم</string>
+    <string name="title_activity_prayer">PrayerActivity</string>
+
+
+</resources>
